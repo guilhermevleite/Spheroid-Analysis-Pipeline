@@ -35,13 +35,13 @@ To get started with SAP Tool, follow these steps:
 After installation, you can start analyzing your spheroid images as follows:
 
 1. **Prepare Your Images:**
-  - Ensure your images are in the `input/` directory. Supported formats include `.png`, `.jpg`, and `.tif`.
-1. **Run the Analysis:**
-  ```bash
-  python sap_tool.py --input input/ --output output/
-  ```
-1. **Output Files:**
-  - Processed images and statistical summaries will be saved in the specified output directory.
+   - Ensure your images are in the `input/` directory. Supported formats include `.png`, `.jpg`, and `.tif`.
+2. **Run the Analysis:**
+   ```bash
+   python sap_tool.py --input input/ --output output/
+   ```
+3. **Output Files:**
+   - Processed images and statistical summaries will be saved in the specified output directory.
 
 For detailed information on usage options, run:
 ```bash
